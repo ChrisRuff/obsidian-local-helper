@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-local-helper",
+	"name": "Local Helper",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "Demonstrates some of the capabilities of the Obsidian API.",
+	"author": "Chris Ruff",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
